@@ -1,0 +1,2415 @@
+{
+    "data": [
+        {
+            "location": "fridge",
+            "name": "top fridge shelf",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 58% similarity to bottom fridge shelf\n- 8% similarity to plastic cutting board\n- 7% similarity to wooden cutting board"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 62% similarity to bottom fridge shelf\n- 7% similarity to countertop 3\n- 7% similarity to wooden cutting board"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 38% similarity to bottom fridge shelf\n- 9% similarity to countertop 3\n- 5% similarity to countertop 2"
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "bottom fridge shelf",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "high",
+            "risk": "mold",
+            "filters": ["surfaces", "mold"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nMold.\n\nComposition:\nVery low in diversity.\n\n- 58% similarity to top fridge shelf\n- 9% similarity to wooden cutting board\n- 8% similarity to plastic cutting board"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 62% similarity to top fridge shelf\n- 9% similarity to plastic cutting board\n- 7% similarity to wooden cutting board"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 38% similarity to bottom fridge shelf\n- 7% similarity to countertop 3\n- 4% similarity to countertop #2"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "top cabinet shelf #1",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 35% similarity to bottom cabinet shelf #1\n- 35% similarity to middle cabinet shelf #1\n- 34% similarity to bottom cabinet shelf #2"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 34% similarity to top cabinet shelf #2\n- 33% similarity to middle cabinet shelf #3\n- 35% similarity to bottom cabinet shelf #3"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery low in diversity.\n\n- 33% similarity to top cabinet shelf #3\n- 32% similarity to bottom cabinet shelf #3\n- 32% similarity to top cabinet shelf #2"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "middle cabinet shelf #1",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 35% similarity to bottom cabinet shelf #2\n- 35% similarity to top cabinet shelf #1\n- 34% similarity to top cabinet shelf #2"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 33% similarity to bottom cabinet shelf #1\n- 31% similarity to middle cabinet shelf #3\n- 31% similarity to middle cabinet shelf #2"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 33% similarity to bottom cabinet shelf #1\n- 31% similarity to top cabinet shelf #1\n- 31% similarity to bottom cabinet shelf #3"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "bottom cabinet shelf #1",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0.021ug/g",
+            "level": "low",
+            "risk": "dustmites",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nTest result: 0.021ug/g.\nLOW: not enough to cause allergic symptoms if the data is <2 ug/g (microgram per gram).\n\nComposition:\nMedium in diversity.\n\n- 35% similarity to top cabinet shelf #1\n- 33% similarity to bottom cabinet shelf #3\n- 31% similarity to bottom cabinet shelf #2"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 33% similarity to middle cabinet shelf #1\n- 32% similarity to top cabinet shelf #2\n- 31% similarity to middle cabinet shelf #2"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 33% similarity to top cabinet shelf #3\n- 33% similarity to middle cabinet shelf #1\n- 32% similarity to top cabinet shelf #2"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "top cabinet shelf #2",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "3.1ug/g",
+            "level": "high",
+            "risk": "dustmites",
+            "filters": ["surfaces", "dustmites"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nTest result: 3.1ug/g.\nMODERATE: risk for sensitization and bronchial hyperactivity if the data is 2-10 ug/g (microgram per gram).\n\nComposition:\nLow in diversity.\n\n- 34% similarity to middle cabinet shelf #1\n- 33% similarity to middle cabinet shelf #3\n- 31% similarity to top cabinet shelf #1"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nTest result: 11.2 ug/g.\nHIGH: risk for acute asthmatic attack if the data is >10ug/g (microgram per gram).\n\nComposition:\nVery low in diversity.\n\n- 34% similarity to top cabinet shelf #1\n- 33% similarity to top cabinet shelf #1\n- 32% similarity to top cabinet shelf #3"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nTest result: 13.4 ug/g.\nHIGH: risk for acute asthmatic attack if the data is >10ug/g (microgram per gram).\n\nComposition:\nLow in diversity.\n\n- 38% similarity to bottom cabinet shelf #2\n- 32% similarity to bottom cabinet shelf #1\n- 32% similarity to top cabinet shelf #1"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "middle cabinet shelf #2",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 36% similarity to top cabinet shelf #3\n- 31% similarity to top cabinet shelf #2\n- 30% similarity to top cabinet shelf #1"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 33% similarity to bottom cabinet shelf #3\n- 32% similarity to bottom cabinet shelf #2\n- 31% similarity to top cabinet shelf #3"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 31% similarity to top cabinet shelf #3\n- 30% similarity to middle cabinet shelf #3\n- 30% similarity to top cabinet shelf #2"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "bottom cabinet shelf #2",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 35% similarity to middle cabinet shelf #1\n- 34% similarity to top cabinet shelf #1\n- 32% similarity to top cabinet shelf #3"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 32% similarity to middle cabinet shelf #2\n- 32% similarity to top cabinet shelf #3\n- 31% similarity to middle cabinet shelf #3"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 38% similarity to top cabinet shelf #2\n- 31% similarity to middle cabinet shelf #3\n- 30% similarity to middle cabinet shelf #1"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "top cabinet shelf #3",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "high",
+            "risk": "peanut",
+            "risk2": "wheat",
+            "filters": ["surfaces", "peanut", "wheat"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nPeanut and wheat.\n\nComposition:\nMedium in diversity.\n\n- 36% similarity to middle cabinet shelf #2\n- 32% similarity to bottom cabinet shelf #2\n- 31% similarity to middle cabinet shelf #3"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nWheat.\n\nComposition:\nMedium in diversity.\n\n- 32% similarity to bottom cabinet shelf #2\n- 32% similarity to top cabinet shelf #2\n- 31% similarity to middle cabinet shelf #3"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nPeanut.\n\nComposition:\nMedium in diversity.\n\n- 34% similarity to bottom cabinet shelf #3\n- 33% similarity to top cabinet shelf #1\n- 33% similarity to bottom cabinet shelf #1"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "middle cabinet shelf #3",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "high",
+            "risk": "wheat",
+            "filters": ["surfaces", "wheat"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nWheat.\n\nComposition:\nLow in diversity.\n\n- 34% similarity to middle cabinet shelf #1\n- 33% similarity to top cabinet shelf #2\n- 31% similarity to top cabinet shelf #3"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 33% similarity to top cabinet shelf #1\n- 31% similarity to middle cabinet shelf #1\n- 31% similarity to bottom cabinet shelf #2"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nWheat.\n\nComposition:\nLow in diversity.\n\n- 31% similarity to bottom cabinet shelf #2\n- 31% similarity to top cabinet shelf #3\n- 31% similarity to middle cabinet shelf #1"
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "bottom cabinet shelf #3",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 33% similarity to bottom cabinet shelf #1\n- 31% similarity to top cabinet shelf #1\n- 31% similarity to middle cabinet shelf #1"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 33% similarity to middle cabinet shelf #3\n- 31% similarity to top cabinet shelf #3\n- 31% similarity to top cabinet shelf #1"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nLow in diversity.\n\n- 34% similarity to top cabinet shelf #3\n- 31% similarity to middle cabinet shelf #1\n- 29% similarity to middle countertop #3"
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "countertop #1",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 43% similarity to bottom countertop #1\n- 37% similarity to countertop #3\n- 28% similarity to bottom cabinet shelf #3"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 43% similarity to countertop #3\n- 41% similarity to countertop #2\n- 30% similarity to middle cabinet shelf #2"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nMedium in diversity.\n\n- 44% similarity to countertop #2\n- 37% similarity to countertop #3\n- 28% similarity to wooden cutting board"
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "countertop #2",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "peanut",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nPeanut.\n\nComposition:\nHigh in diversity.\n\n- 46% similarity to bottom countertop #3\n- 43% similarity to countertop #1\n- 30% similarity to top cabinet shelf #2"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nHigh in diversity.\n\n- 47% similarity to countertop #3\n- 41% similarity to countertop #1\n- 29% similarity to plastic cutting board"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery high in diversity.\n\n- 44% similarity to countertop #1\n- 37% similarity to countertop #3\n- 29% similarity to plastic cutting board"
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "countertop #3",
+            "date": "2018-06-30",
+            "type": "detection",
+            "amount": "0mg",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["surfaces"],
+            "details": [
+                {
+                    "title": "Most recent data",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery high in diversity.\n\n- 46% similarity to bottom countertop #2\n- 37% similarity to countertop #1\n- 27% similarity to middle cabinet shelf #1"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery high in diversity.\n\n- 47% similarity to countertop #2\n- 43% similarity to countertop #1\n- 30% similarity to top cabinet shelf #2"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "Detection:\nNo risk factors.\n\nComposition:\nVery high in diversity.\n\n- 37% similarity to countertop #2\n- 36% similarity to countertop #1\n- 31% similarity to top cabinet shelf #1"
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "flower",
+            "date": "2018-09-30",
+            "type": "detection",
+            "amount": "0.5mg",
+            "level": "high",
+            "risk": "pollen",
+            "filters": ["objects", "pollen"],
+            "tip": "Do not come near if you have a pollen allergy",
+            "details": [
+                {
+                    "title": "Test result",
+                    "info": "High pollen count."
+                },
+                {
+                    "title": "Pollen allergy",
+                    "info": "Symptoms include sneezing, nasal congestion, runny nose, watery eyes, itchy throat and eyes. Pollen can also aggravate asthma symptoms, including increased coughing and wheezing"
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "cookie jar",
+            "date": "2018-09-30",
+            "type": "detection",
+            "amount": "0.5mg",
+            "level": "high",
+            "risk": "peanut",
+            "risk2": "wheat",
+            "filters": ["objects", "peanut"],
+            "tip": "Do not eat if you have a peanut or wheat allergy.",
+            "details": [
+                {
+                    "title": "Peanut level: 0.5mg",
+                    "info": "Peanut allergy is one of the most common causes of severe allergy attacks. Peanut allergy symptoms can be life-threatening (anaphylaxis). For some people with peanut allergy, even tiny amounts of peanuts can cause a serious reaction."
+                },
+                {
+                    "title": "Wheat level: 200ppm",
+                    "info": "If you have wheat allergy, exposure to a wheat protein primes your immune system for an allergic reaction. You can develop an allergy to any of the four classes of wheat proteins — albumin, globulin, gliadin and gluten."
+                }
+            ]
+        },
+        {
+            "location": "GF shelf",
+            "name": "gluten-free pasta",
+            "date": "2018-09-30",
+            "type": "detection",
+            "amount": "10ppm",
+            "level": "low",
+            "risk": "gluten",
+            "filters": ["objects"],
+            "tip": "Safe for gluten-free consumers.",
+            "details": [
+                {
+                    "title": "Test result: 10ppm",
+                    "info": "parts per million (ppm) can be understood as a percentage of gluten in a particular product (for example, foods that contain 20 parts per million of gluten contain 0.002% gluten)."
+                },
+                {
+                    "title": "Gluten levels in food",
+                    "info": "In the United States, 20 parts per million (ppm) has become commonly accepted as the maximum ratio of gluten levels in food deemed safe for people with celiac disease. This premise stems from the U.S. FDA’s rule for packaged foods issued in 2013 that aimed to help both people with celiac disease eat more safely and the food manufacturers produce foods to documented standards."
+                }
+            ]
+        },
+        {
+            "location": "GF shelf",
+            "name": "oatmeal",
+            "date": "2018-12-12",
+            "type": "detection",
+            "amount": "300ppm",
+            "level": "high",
+            "risk": "wheat",
+            "filters": ["objects", "wheat"],
+            "tip": "Do not eat if you have a wheat allergy.",
+            "details": [
+                {
+                    "title": "Wheat level: 300ppm",
+                    "info": "If you have wheat allergy, exposure to a wheat protein primes your immune system for an allergic reaction. You can develop an allergy to any of the four classes of wheat proteins — albumin, globulin, gliadin and gluten."
+                }
+            ]
+        },
+        {
+            "location": "GF shelf",
+            "name": "rice",
+            "date": "2018-08-12",
+            "type": "detection",
+            "amount": "0 ppm",
+            "level": "low",
+            "risk": "gluten",
+            "filters": ["objects"],
+            "tip": "Safe for gluten-free consumers.",
+            "details": [
+                {
+                    "title": "Test result: 0ppm",
+                    "info": "parts per million (ppm) can be understood as a percentage of gluten in a particular product (for example, foods that contain 20 parts per million of gluten contain 0.002% gluten)."
+                },
+                {
+                    "title": "Gluten levels in food",
+                    "info": "In the United States, 20 parts per million (ppm) has become commonly accepted as the maximum ratio of gluten levels in food deemed safe for people with celiac disease. This premise stems from the U.S. FDA’s rule for packaged foods issued in 2013 that aimed to help both people with celiac disease eat more safely and the food manufacturers produce foods to documented standards."
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "extra virgin olive oil",
+            "date": "2019-01-26",
+            "type": "identification",
+            "filters": ["objects"],
+            "image": "oil",
+            "subtype": "ingredients",
+            "identities": [
+                {
+                    "name": "olive oil",
+                    "percentage": "100"
+                }
+            ],
+            "details": [
+                {
+                    "title": "Extra virgin olive oil",
+                    "info": "Olive oil that is truly extra virgin has a distinctive taste and is high in phenolic antioxidants, the main reason why (real) olive oil is so beneficial. These substances are biologically active and some of them can help fight serious diseases."
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "cheap olive oil",
+            "date": "2019-03-06",
+            "type": "identification",
+            "filters": ["objects"],
+            "image": "oil",
+            "subtype": "ingredients",
+            "identities": [
+                {
+                    "name": "olive oil",
+                    "percentage": "60"
+                },
+                {
+                    "name": "canola oil",
+                    "percentage": "40"
+                }
+            ],
+            "details": [
+                {
+                    "title": "Olive oil",
+                    "info": "Olive oil is the natural oil extracted from olives, the fruit of the olive tree. About 14% of the oil is saturated fat, whereas 11% is polyunsaturated, such as omega-6 and omega-3 fatty acids"
+                },
+                {
+                    "title": "canola oil",
+                    "info": "Canola (Brassica napus L.) is an oilseed crop created through plant crossbreeding. Aside from vitamins E and K, canola oil is devoid of vitamins and minerals."
+                }
+            ]
+        },
+        {
+            "location": "cabinet",
+            "name": "vegetable oil",
+            "date": "2019-02-10",
+            "type": "identification",
+            "filters": ["objects"],
+            "image": "oil",
+            "subtype": "ingredients",
+            "identities": [
+                {
+                    "name": "corn",
+                    "percentage": "80"
+                },
+                {
+                    "name": "soy",
+                    "percentage": "20"
+                }
+            ],
+            "details": [
+                {
+                    "title": "vegetable oil",
+                    "info": "Vegetable oils appear to be heart-friendly. While some nutritionists are worried about the high levels of omega-6 in certain oils, there is currently no evidence that they raise the risk of heart disease."
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "keurig",
+            "date": "2019-07-20",
+            "type": "detection",
+            "amount": "0",
+            "level": "low",
+            "risk": "mold",
+            "filters": ["objects"],
+            "tip": "Clean this surface more often.",
+            "details": [
+                {
+                    "title": "2 weeks ago",
+                    "info": "Contained mold."
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "wooden cutting board",
+            "date": "2019-07-19",
+            "type": "detection",
+            "amount": "0",
+            "level": "low",
+            "risk": "risk factors",
+            "filters": ["objects"],
+            "details": [
+                {
+                    "title": "2 weeks ago",
+                    "info": "No risk factors."
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "No risk factors."
+                }
+            ]
+        },
+        {
+            "location": "countertop",
+            "name": "plastic cutting board",
+            "date": "2019-07-18",
+            "type": "detection",
+            "amount": "0.2mg",
+            "level": "high",
+            "risk": "peanut",
+            "filters": ["objects", "peanut"],
+            "tip": "Do not eat if you have a peanut allergy.",
+            "details": [
+                {
+                    "title": "Current data",
+                    "info": "Detection: Peanut present.\nMicrobial diversity: high.",
+                    "risk": "peanut",
+                    "level":"high",
+                    "diversity": "high diversity"
+                },
+                {
+                    "title": "2 weeks ago",
+                    "info": "Ecoli present",
+                    "risk": "ecoli",
+                    "level":"high",
+                    "diversity": "high diversity"
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "No risk factors",
+                    "risk": "risk factors",
+                    "level":"low",
+                    "diversity": "low diversity"
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "salmon sushi",
+            "date": "2019-06-26",
+            "type": "identification",
+            "filters": ["objects"],
+            "image": "fish",
+            "identities": [
+                {
+                    "scientific_name": "salmo salar",
+                    "name": "atlantic salmon",
+                    "percentage": "99"
+                }
+            ],
+            "details": [
+                {
+                    "title": "Salmo salar",
+                    "info": "The Atlantic salmon is a species of ray-finned fish in the family Salmonidae. It is found in the  northern Atlantic Ocean, in rivers that flow into the north Atlantic and, due to human introduction, in the north Pacific Ocean."
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "white tuna sushi",
+            "date": "2019-06-26",
+            "type": "identification",
+            "filters": ["objects"],
+            "image": "fish",
+            "identities": [
+                {
+                    "scientific_name": "thunnus albacares",
+                    "name": "yellowfin tuna",
+                    "percentage": "99"
+                }
+            ],
+            "details": [
+                {
+                    "title": "thunnus albacares",
+                    "info": "It is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide."
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "snapper sushi",
+            "date": "2019-06-26",
+            "type": "identification",
+            "image": "fish",
+            "filters": ["objects"],
+            "identities": [
+                {
+                    "scientific_name": "oreochromis niloticus",
+                    "name": "tilapia",
+                    "percentage": "98"
+                }
+            ],
+            "details": [
+                {
+                    "title": "Tilapia",
+                    "info": "Tilapia are mainly freshwater fish inhabiting shallow streams, ponds, rivers, and lakes, and less commonly found living in brackish water. "
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "mixed vegetables",
+            "date": "2019-07-15",
+            "type": "detection",
+            "amount": "0.5mg",
+            "level": "high",
+            "risk": "peanut",
+            "filters": ["objects", "peanut"],
+            "tip": "Do not eat if you have a peanut allergy.",
+            "details": [
+                {
+                    "title": "2 weeks ago",
+                    "info": "No risk factors."
+                },
+                {
+                    "title": "4 weeks ago",
+                    "info": "No risk factors."
+                }
+            ]
+        },
+        {
+            "location": "fridge",
+            "name": "clam chowder",
+            "date": "2019-07-15",
+            "type": "detection",
+            "amount": "0.5mg",
+            "level": "high",
+            "risk": "shellfish",
+            "filters": ["objects", "shellfish"],
+            "tip": "Do not eat if you have a shellfish allergy.",
+            "details": [
+                {
+                    "title": "Shellfish allergy",
+                    "info": "Shellfish allergy is an abnormal response by the body's immune system to proteins in certain marine animals. Marine animals in the shellfish category include crustaceans and mollusks, such as shrimp, crab, lobster, squid, oysters, scallops and others."
+                }
+            ]
+        },
+        {
+            "location": "kitchen",
+            "name": "pasta",
+            "date": "2018-09-28",
+            "type": "detection",
+            "amount": "40ppm",
+            "level": "high",
+            "risk": "gluten",
+            "filters": ["objects", "gluten"],
+            "tip": "Do not eat if you have a gluten intolerance or celiac disease.",
+            "details": [
+                {
+                    "title": "Test result: >40.0 ppm",
+                    "info": "parts per million (ppm) can be understood as a percentage of gluten in a particular product (for example, foods that contain 20 parts per million of gluten contain 0.002% gluten)."
+                },
+                {
+                    "title": "Gluten levels in food",
+                    "info": "In the United States, 20 parts per million (ppm) has become commonly accepted as the maximum ratio of gluten levels in food deemed safe for people with celiac disease. This premise stems from the U.S. FDA’s rule for packaged foods issued in 2013 that aimed to help both people with celiac disease eat more safely and the food manufacturers produce foods to documented standards."
+                }
+            ]
+        },
+        {
+            "location": "dog",
+            "name": "Floyd",
+            "date": "2018-09-28",
+            "type": "identification",
+            "filters": ["objects"],
+            "subtype": "breed",
+            "identities": [
+                {
+                    "name": "boxer",
+                    "percentage": "25"
+                },
+                {
+                    "name": "labrador retriever",
+                    "percentage": "25"
+                },
+                {
+                    "name": "chow chow",
+                    "percentage": "12.5"
+                },
+                {
+                    "name": "golden retriever",
+                    "percentage": "12.5"
+                },
+                {
+                    "name": "hound, guard, terrier",
+                    "percentage": "25"
+                }
+            ],
+            "details": [
+                {
+                    "title": "Boxer",
+                    "info": "Intelligent, hardworking, and playful dogs, with high amount of energy. Boxers seem to enjoy dog sports such as agility, flyball, rally, and competitive obedience."
+                },
+                {
+                    "title": "Labrador Retriever",
+                    "info": "Happy-go-lucky, calm, or easy-going dogs, although some could be energetic or nervous. Usually friendly and are generally good family dogs."
+                },
+                {
+                    "title": "Chow chow",
+                    "info": "Reputation as a loyal family dog. Reserved and wary with strangers. Independent spirit, but responds to award-based obedience training."
+                },
+                {
+                    "title": "Golden Retriever",
+                    "info": "The breed’s friendly, tolerant attitude makes him a fabulous family pet, and his intelligence makes him a highly capable working dog. Golden Retrievers excel at retrieving game for hunters, tracking, sniffing out drugs, and as therapy and assistance dogs."
+                }
+            ]
+        },
+        {
+            "location": "kitchen",
+            "name": "countertop",
+            "date": "2018-09-03",
+            "type": "composition",
+            "filters": ["surfaces"],
+            "tip": "Clean this surface more frequently.",
+            "tipImage": "clean",
+            "details": [
+                {
+                    "title": "Roseomonas",
+                    "info": "Roseomonas are slow-growing, gram-negative bacteria. The colonies they form on sheep blood agar (SBA) are slightly fastidious, very mucoid, and almost runny. Roseomonas can cause bacteremia in humans, especially in immunocompromised patients. While uncommon, the reported rate of Roseomonas infection may be lower due to difficulty in detection of the bacteria in clinical settings."
+                },
+                {
+                    "title": "Klebsiella",
+                    "info": "Klebsiella is a type of bacteria commonly found in nature. In humans, the bacteria are often present in parts of the digestive tract where they do not generally cause problems. In the United States, Klebsiella pneumoniae and Klebsiella oxytoca are the two strains responsible for most human illnesses."
+                },
+                {
+                    "title": "Acinetobacter",
+                    "info": "Acinetobacter is a genus of Gram-negative bacteria belonging to the wider class of Gammaproteobacteria. Acinetobacter species are oxidase-negative, exhibit twitching motility, and occur in pairs under magnification. Acinetobacter species are a key source of infection in debilitated patients in the hospital, in particular the species Acinetobacter baumannii."
+                },
+                {
+                    "title": "Sphingomonas",
+                    "info": "The bacterium is metabolically versatile, which means it can utilize a wide range of naturally occuring compounds as well as some types of environmental contaminants. Therefore, studies have been held to further explore its metabolic mechanisms for more application in biotechnology, in addition to its Most recent utilization in biomeditation and in the food technology."
+                },
+                {
+                    "title": "Dermacoccus",
+                    "info": "Dermacoccus is a Gram-positive, non-spore-forming, chemoorganotrophic and aerobic genus of bacteria from the family of Dermacoccaceae."
+                },
+                {
+                    "title": "Moraxella",
+                    "info": "The organisms are commensals of mucosal surfaces and sometimes give rise to opportunistic infection. It usually resides in respiratory tract, but can gain access to the lower respiratory tract in patients with chronic chest disease or compromised host defenses, thus causing tracheobronchitis and pneumonia."
+                },
+                {
+                    "title": "Brevundimonas",
+                    "info": "They are Gram-negative, non-fermenting, aerobic bacilli. The Brevundimonas species are ubiquitous in the environment but are rarely isolated from clinical samples."
+                },
+                {
+                    "title": "Rhodobacter",
+                    "info": "Its species Rhodobacter sphaeroides is the most-studied photosynthetic organism in terms of the structural and functional light reactions, and the metabolisms of each species generate great interest within the research community, especially in regards to renewable energy sources. Rhodobacter are found in freshwater or marine environments."
+                },
+                {
+                    "title": "Chryseobacterium",
+                    "info": "Chryseobacterium indologenes is an environmental organism which is usually an opportunistic pathogen, most usually associated with nosocomial or device-related infections. "
+                },
+                {
+                    "title": "Streptococcus",
+                    "info": "The cause of strep throat is bacteria known as Streptococcus pyogenes, also known as group A streptococcus. Streptococcal bacteria are highly contagious. They can spread through airborne droplets when someone with the infection coughs or sneezes, or through shared food or drinks."
+                },
+                {
+                    "title": "Rhizobium",
+                    "info": "Rhizobium is a genus of Gram-negative soil bacteria that fix nitrogen. Rhizobium species form an endosymbiotic nitrogen-fixing association with roots of legumes and Parasponia."
+                }
+            ],
+            "identities": [
+                {
+                    "name": "Roseomonas",
+                    "percentage": "29.59",
+                    "danger": "high"
+                },
+                {
+                    "name": "Klebsiella",
+                    "percentage": "14.13",
+                    "danger": "high"
+                    
+                },
+                {
+                    "name": "Acinetobacter",
+                    "percentage": "10.67",
+                    "danger": "high"
+                },
+                {
+                    "name": "Sphingomonas",
+                    "percentage": "10.58",
+                    "danger": "low"
+                },
+                {
+                    "name": "Dermacoccus",
+                    "percentage": "6.79",
+                    "danger": "low"
+                },
+                {
+                    "name": "Moraxella",
+                    "percentage": "3.99",
+                    "danger": "high"
+                },
+                {
+                    "name": "Brevundimonas",
+                    "percentage": "3.93",
+                    "danger": "low"
+                },
+                {
+                    "name": "Rhodobacter",
+                    "percentage": "3.42",
+                    "danger": "low"
+                },
+                {
+                    "name": "Chryseobacterium",
+                    "percentage": "3.11",
+                    "danger": "high"
+                },
+                {
+                    "name": "Streptococcus",
+                    "percentage": "2.79",
+                    "danger": "high"
+                },
+                {
+                    "name": "Rhizobium",
+                    "percentage": "1.97",
+                    "danger": "low"
+                },
+                {
+                    "name": "Others",
+                    "percentage": "8.11",
+                    "danger": "low"
+                }
+            ],
+            "bacteria_counts": [
+                {
+                    "taxon": 1,
+                    "parent": 0,
+                    "count": 4511,
+                    "count_norm": 1000665,
+                    "tax_name": "root",
+                    "tax_rank": "root"
+                },
+                {
+                    "taxon": 2,
+                    "parent": 131567,
+                    "count": 4508,
+                    "count_norm": 999999,
+                    "tax_name": "Bacteria",
+                    "tax_rank": "superkingdom"
+                },
+                {
+                    "taxon": 29,
+                    "parent": 28221,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Myxococcales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 49,
+                    "parent": 80812,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Polyangiaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 286,
+                    "parent": 135621,
+                    "count": 24,
+                    "count_norm": 5323,
+                    "tax_name": "Pseudomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 329,
+                    "parent": 48736,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Ralstonia pickettii",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 356,
+                    "parent": 28211,
+                    "count": 115,
+                    "count_norm": 25510,
+                    "tax_name": "Rhizobiales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 374,
+                    "parent": 41294,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bradyrhizobium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 379,
+                    "parent": 227290,
+                    "count": 89,
+                    "count_norm": 19742,
+                    "tax_name": "Rhizobium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 407,
+                    "parent": 119045,
+                    "count": 18,
+                    "count_norm": 3992,
+                    "tax_name": "Methylobacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 433,
+                    "parent": 204441,
+                    "count": 1342,
+                    "count_norm": 297692,
+                    "tax_name": "Acetobacteraceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 468,
+                    "parent": 72274,
+                    "count": 661,
+                    "count_norm": 146628,
+                    "tax_name": "Moraxellaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 469,
+                    "parent": 468,
+                    "count": 481,
+                    "count_norm": 106699,
+                    "tax_name": "Acinetobacter",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 470,
+                    "parent": 909768,
+                    "count": 30,
+                    "count_norm": 6654,
+                    "tax_name": "Acinetobacter baumannii",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 475,
+                    "parent": 468,
+                    "count": 180,
+                    "count_norm": 39929,
+                    "tax_name": "Moraxella",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 543,
+                    "parent": 91347,
+                    "count": 639,
+                    "count_norm": 141748,
+                    "tax_name": "Enterobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 570,
+                    "parent": 543,
+                    "count": 637,
+                    "count_norm": 141304,
+                    "tax_name": "Klebsiella",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 573,
+                    "parent": 570,
+                    "count": 637,
+                    "count_norm": 141304,
+                    "tax_name": "Klebsiella pneumoniae",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 579,
+                    "parent": 543,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Kluyvera",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 641,
+                    "parent": 135623,
+                    "count": 11,
+                    "count_norm": 2440,
+                    "tax_name": "Vibrionaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 657,
+                    "parent": 641,
+                    "count": 11,
+                    "count_norm": 2440,
+                    "tax_name": "Photobacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 958,
+                    "parent": 213483,
+                    "count": 23,
+                    "count_norm": 5102,
+                    "tax_name": "Bdellovibrio",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 976,
+                    "parent": 68336,
+                    "count": 146,
+                    "count_norm": 32386,
+                    "tax_name": "Bacteroidetes",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 1060,
+                    "parent": 31989,
+                    "count": 154,
+                    "count_norm": 34161,
+                    "tax_name": "Rhodobacter",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1224,
+                    "parent": 2,
+                    "count": 3755,
+                    "count_norm": 832963,
+                    "tax_name": "Proteobacteria",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 1236,
+                    "parent": 1224,
+                    "count": 1362,
+                    "count_norm": 302129,
+                    "tax_name": "Gammaproteobacteria",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 1239,
+                    "parent": 1783272,
+                    "count": 178,
+                    "count_norm": 39485,
+                    "tax_name": "Firmicutes",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 1243,
+                    "parent": 81850,
+                    "count": 22,
+                    "count_norm": 4880,
+                    "tax_name": "Leuconostoc",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1245,
+                    "parent": 1243,
+                    "count": 5,
+                    "count_norm": 1109,
+                    "tax_name": "Leuconostoc mesenteroides",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1268,
+                    "parent": 85006,
+                    "count": 75,
+                    "count_norm": 16637,
+                    "tax_name": "Micrococcaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 1269,
+                    "parent": 1268,
+                    "count": 17,
+                    "count_norm": 3771,
+                    "tax_name": "Micrococcus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1270,
+                    "parent": 1269,
+                    "count": 17,
+                    "count_norm": 3771,
+                    "tax_name": "Micrococcus luteus",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1274,
+                    "parent": 57495,
+                    "count": 306,
+                    "count_norm": 67879,
+                    "tax_name": "Dermacoccus nishinomiyaensis",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1279,
+                    "parent": 90964,
+                    "count": 14,
+                    "count_norm": 3105,
+                    "tax_name": "Staphylococcus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1300,
+                    "parent": 186826,
+                    "count": 129,
+                    "count_norm": 28615,
+                    "tax_name": "Streptococcaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 1301,
+                    "parent": 1300,
+                    "count": 126,
+                    "count_norm": 27950,
+                    "tax_name": "Streptococcus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1357,
+                    "parent": 1300,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Lactococcus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1358,
+                    "parent": 1357,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Lactococcus lactis",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1385,
+                    "parent": 91061,
+                    "count": 20,
+                    "count_norm": 4436,
+                    "tax_name": "Bacillales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 1578,
+                    "parent": 33958,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Lactobacillus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1653,
+                    "parent": 85007,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Corynebacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 1716,
+                    "parent": 1653,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Corynebacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1747,
+                    "parent": 1912216,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Cutibacterium acnes",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1760,
+                    "parent": 201174,
+                    "count": 395,
+                    "count_norm": 87622,
+                    "tax_name": "Actinobacteria",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 2701,
+                    "parent": 31953,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Gardnerella",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 2747,
+                    "parent": 186828,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Carnobacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 2751,
+                    "parent": 2747,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Carnobacterium maltaromaticum",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 2759,
+                    "parent": 131567,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Eukaryota",
+                    "tax_rank": "superkingdom"
+                },
+                {
+                    "taxon": 3193,
+                    "parent": 131221,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Embryophyta",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 3398,
+                    "parent": 58024,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Magnoliophyta",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 4069,
+                    "parent": 91888,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Solanales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 13687,
+                    "parent": 41297,
+                    "count": 477,
+                    "count_norm": 105811,
+                    "tax_name": "Sphingomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 13690,
+                    "parent": 165695,
+                    "count": 44,
+                    "count_norm": 9760,
+                    "tax_name": "Sphingobium yanoikuyae",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 28211,
+                    "parent": 1224,
+                    "count": 2350,
+                    "count_norm": 521295,
+                    "tax_name": "Alphaproteobacteria",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 28216,
+                    "parent": 1224,
+                    "count": 14,
+                    "count_norm": 3105,
+                    "tax_name": "Betaproteobacteria",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 28221,
+                    "parent": 68525,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Deltaproteobacteria",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 28453,
+                    "parent": 84566,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Sphingobacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 29385,
+                    "parent": 1279,
+                    "count": 5,
+                    "count_norm": 1109,
+                    "tax_name": "Staphylococcus saprophyticus",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 31953,
+                    "parent": 85004,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bifidobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 31957,
+                    "parent": 85009,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Propionibacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 31989,
+                    "parent": 204455,
+                    "count": 154,
+                    "count_norm": 34161,
+                    "tax_name": "Rhodobacteraceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 32033,
+                    "parent": 135614,
+                    "count": 9,
+                    "count_norm": 1996,
+                    "tax_name": "Xanthomonadaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 33090,
+                    "parent": 2759,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Viridiplantae",
+                    "tax_rank": "kingdom"
+                },
+                {
+                    "taxon": 33958,
+                    "parent": 186826,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Lactobacillaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 34037,
+                    "parent": 1903411,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Rahnella",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 35493,
+                    "parent": 33090,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Streptophyta",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 39643,
+                    "parent": 49,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Sorangium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 40323,
+                    "parent": 32033,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Stenotrophomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 41275,
+                    "parent": 76892,
+                    "count": 177,
+                    "count_norm": 39263,
+                    "tax_name": "Brevundimonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 41294,
+                    "parent": 356,
+                    "count": 8,
+                    "count_norm": 1774,
+                    "tax_name": "Bradyrhizobiaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 41297,
+                    "parent": 204457,
+                    "count": 562,
+                    "count_norm": 124667,
+                    "tax_name": "Sphingomonadaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 48736,
+                    "parent": 119060,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Ralstonia",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 49546,
+                    "parent": 200644,
+                    "count": 140,
+                    "count_norm": 31055,
+                    "tax_name": "Flavobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 53335,
+                    "parent": 1903409,
+                    "count": 15,
+                    "count_norm": 3327,
+                    "tax_name": "Pantoea",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 57493,
+                    "parent": 1268,
+                    "count": 58,
+                    "count_norm": 12866,
+                    "tax_name": "Kocuria",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 57495,
+                    "parent": 145357,
+                    "count": 306,
+                    "count_norm": 67879,
+                    "tax_name": "Dermacoccus",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 57723,
+                    "parent": 2,
+                    "count": 31,
+                    "count_norm": 6876,
+                    "tax_name": "Acidobacteria",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 58023,
+                    "parent": 3193,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Tracheophyta",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 58024,
+                    "parent": 78536,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Spermatophyta",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 59732,
+                    "parent": 49546,
+                    "count": 140,
+                    "count_norm": 31055,
+                    "tax_name": "Chryseobacterium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 68336,
+                    "parent": 1783270,
+                    "count": 146,
+                    "count_norm": 32386,
+                    "tax_name": "Bacteroidetes/Chlorobi group",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 68525,
+                    "parent": 1224,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "delta/epsilon subdivisions",
+                    "tax_rank": "subphylum"
+                },
+                {
+                    "taxon": 71240,
+                    "parent": 1437183,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "eudicotyledons",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 71274,
+                    "parent": 1437201,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "asterids",
+                    "tax_rank": "subclass"
+                },
+                {
+                    "taxon": 72000,
+                    "parent": 57493,
+                    "count": 25,
+                    "count_norm": 5545,
+                    "tax_name": "Kocuria rhizophila",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 72274,
+                    "parent": 1236,
+                    "count": 685,
+                    "count_norm": 151952,
+                    "tax_name": "Pseudomonadales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 73098,
+                    "parent": 579,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Kluyvera georgiana",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 76892,
+                    "parent": 204458,
+                    "count": 177,
+                    "count_norm": 39263,
+                    "tax_name": "Caulobacteraceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 78536,
+                    "parent": 58023,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Euphyllophyta",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 80812,
+                    "parent": 29,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Sorangiineae",
+                    "tax_rank": "suborder"
+                },
+                {
+                    "taxon": 80840,
+                    "parent": 28216,
+                    "count": 14,
+                    "count_norm": 3105,
+                    "tax_name": "Burkholderiales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 80864,
+                    "parent": 80840,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Comamonadaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 80865,
+                    "parent": 80864,
+                    "count": 5,
+                    "count_norm": 1109,
+                    "tax_name": "Delftia",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 81850,
+                    "parent": 186826,
+                    "count": 22,
+                    "count_norm": 4880,
+                    "tax_name": "Leuconostocaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 82115,
+                    "parent": 356,
+                    "count": 89,
+                    "count_norm": 19742,
+                    "tax_name": "Rhizobiaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 83618,
+                    "parent": 32033,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Pseudoxanthomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 84566,
+                    "parent": 200666,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Sphingobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 85004,
+                    "parent": 1760,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bifidobacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 85006,
+                    "parent": 1760,
+                    "count": 381,
+                    "count_norm": 84516,
+                    "tax_name": "Micrococcales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 85007,
+                    "parent": 1760,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Corynebacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 85009,
+                    "parent": 1760,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Propionibacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 85413,
+                    "parent": 41294,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bosea",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 90964,
+                    "parent": 1385,
+                    "count": 14,
+                    "count_norm": 3105,
+                    "tax_name": "Staphylococcaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 91061,
+                    "parent": 1239,
+                    "count": 178,
+                    "count_norm": 39485,
+                    "tax_name": "Bacilli",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 91347,
+                    "parent": 1236,
+                    "count": 657,
+                    "count_norm": 145740,
+                    "tax_name": "Enterobacterales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 91827,
+                    "parent": 71240,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Gunneridae",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 91888,
+                    "parent": 71274,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "lamiids",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 93063,
+                    "parent": 13687,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Sphingomonas aquatilis",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 108980,
+                    "parent": 469,
+                    "count": 401,
+                    "count_norm": 88952,
+                    "tax_name": "Acinetobacter ursingii",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 117743,
+                    "parent": 976,
+                    "count": 140,
+                    "count_norm": 31055,
+                    "tax_name": "Flavobacteriia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 117747,
+                    "parent": 976,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Sphingobacteriia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 119045,
+                    "parent": 356,
+                    "count": 18,
+                    "count_norm": 3992,
+                    "tax_name": "Methylobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 119060,
+                    "parent": 80840,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Burkholderiaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 125216,
+                    "parent": 433,
+                    "count": 1334,
+                    "count_norm": 295918,
+                    "tax_name": "Roseomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 131221,
+                    "parent": 35493,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Streptophytina",
+                    "tax_rank": "subphylum"
+                },
+                {
+                    "taxon": 131567,
+                    "parent": 1,
+                    "count": 4511,
+                    "count_norm": 1000665,
+                    "tax_name": "cellular organisms",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 135614,
+                    "parent": 1236,
+                    "count": 9,
+                    "count_norm": 1996,
+                    "tax_name": "Xanthomonadales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 135621,
+                    "parent": 72274,
+                    "count": 24,
+                    "count_norm": 5323,
+                    "tax_name": "Pseudomonadaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 135623,
+                    "parent": 1236,
+                    "count": 11,
+                    "count_norm": 2440,
+                    "tax_name": "Vibrionales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 145357,
+                    "parent": 85006,
+                    "count": 306,
+                    "count_norm": 67879,
+                    "tax_name": "Dermacoccaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 147802,
+                    "parent": 1578,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Lactobacillus iners",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 165695,
+                    "parent": 41297,
+                    "count": 44,
+                    "count_norm": 9760,
+                    "tax_name": "Sphingobium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 165696,
+                    "parent": 41297,
+                    "count": 41,
+                    "count_norm": 9094,
+                    "tax_name": "Novosphingobium",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 178001,
+                    "parent": 1243,
+                    "count": 17,
+                    "count_norm": 3771,
+                    "tax_name": "Leuconostoc inhae",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 186824,
+                    "parent": 1385,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Thermoactinomycetaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 186826,
+                    "parent": 91061,
+                    "count": 158,
+                    "count_norm": 35048,
+                    "tax_name": "Lactobacillales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 186828,
+                    "parent": 186826,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Carnobacteriaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 200644,
+                    "parent": 117743,
+                    "count": 140,
+                    "count_norm": 31055,
+                    "tax_name": "Flavobacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 200666,
+                    "parent": 117747,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Sphingobacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 201174,
+                    "parent": 1783272,
+                    "count": 395,
+                    "count_norm": 87622,
+                    "tax_name": "Actinobacteria",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 203682,
+                    "parent": 1783257,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Planctomycetes",
+                    "tax_rank": "phylum"
+                },
+                {
+                    "taxon": 203683,
+                    "parent": 203682,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Planctomycetia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 204432,
+                    "parent": 57723,
+                    "count": 31,
+                    "count_norm": 6876,
+                    "tax_name": "Acidobacteriia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 204433,
+                    "parent": 204432,
+                    "count": 31,
+                    "count_norm": 6876,
+                    "tax_name": "Acidobacteriales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 204441,
+                    "parent": 28211,
+                    "count": 1342,
+                    "count_norm": 297692,
+                    "tax_name": "Rhodospirillales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 204455,
+                    "parent": 28211,
+                    "count": 154,
+                    "count_norm": 34161,
+                    "tax_name": "Rhodobacterales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 204457,
+                    "parent": 28211,
+                    "count": 562,
+                    "count_norm": 124667,
+                    "tax_name": "Sphingomonadales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 204458,
+                    "parent": 28211,
+                    "count": 177,
+                    "count_norm": 39263,
+                    "tax_name": "Caulobacterales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 204525,
+                    "parent": 125216,
+                    "count": 5,
+                    "count_norm": 1109,
+                    "tax_name": "Roseomonas cervicalis",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 204532,
+                    "parent": 125216,
+                    "count": 1329,
+                    "count_norm": 294809,
+                    "tax_name": "Roseomonas sp. NML97-0121",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 213481,
+                    "parent": 1553900,
+                    "count": 23,
+                    "count_norm": 5102,
+                    "tax_name": "Bdellovibrionales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 213483,
+                    "parent": 213481,
+                    "count": 23,
+                    "count_norm": 5102,
+                    "tax_name": "Bdellovibrionaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 227290,
+                    "parent": 82115,
+                    "count": 89,
+                    "count_norm": 19742,
+                    "tax_name": "Rhizobium/Agrobacterium group",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 335058,
+                    "parent": 80864,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Pelomonas",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 337012,
+                    "parent": 85413,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bosea sp. JS 2",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 365532,
+                    "parent": 433,
+                    "count": 8,
+                    "count_norm": 1774,
+                    "tax_name": "Belnapia",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 410983,
+                    "parent": 286,
+                    "count": 8,
+                    "count_norm": 1774,
+                    "tax_name": "Pseudomonas sp. G1116",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 415054,
+                    "parent": 469,
+                    "count": 50,
+                    "count_norm": 11091,
+                    "tax_name": "Acinetobacter sp. RBE2CD-114",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 420232,
+                    "parent": 379,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Rhizobium sp. sc-w",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 431058,
+                    "parent": 335058,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Pelomonas aquatica",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 477735,
+                    "parent": 59732,
+                    "count": 140,
+                    "count_norm": 31055,
+                    "tax_name": "Chryseobacterium sp. MH28",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 494072,
+                    "parent": 286,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Pseudomonas sp. KNUC378",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 499532,
+                    "parent": 379,
+                    "count": 18,
+                    "count_norm": 3992,
+                    "tax_name": "Rhizobium sp. CCBAU 03068",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 518684,
+                    "parent": 379,
+                    "count": 42,
+                    "count_norm": 9316,
+                    "tax_name": "Rhizobium sp. UB-12",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 558537,
+                    "parent": 80865,
+                    "count": 5,
+                    "count_norm": 1109,
+                    "tax_name": "Delftia lacustris",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 563835,
+                    "parent": 1853229,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Chitinophagaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 582674,
+                    "parent": 407,
+                    "count": 12,
+                    "count_norm": 2661,
+                    "tax_name": "Methylobacterium sp. Gh-143",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 587306,
+                    "parent": 475,
+                    "count": 180,
+                    "count_norm": 39929,
+                    "tax_name": "Moraxella sp. BBN2P-02d",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 753118,
+                    "parent": 41275,
+                    "count": 177,
+                    "count_norm": 39263,
+                    "tax_name": "Brevundimonas sp. V3M6",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 909768,
+                    "parent": 469,
+                    "count": 30,
+                    "count_norm": 6654,
+                    "tax_name": "Acinetobacter calcoaceticus/baumannii complex",
+                    "tax_rank": "species group"
+                },
+                {
+                    "taxon": 936000,
+                    "parent": 286,
+                    "count": 9,
+                    "count_norm": 1996,
+                    "tax_name": "Pseudomonas sp. KVS86",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1004303,
+                    "parent": 563835,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Ferruginibacter",
+                    "tax_rank": "genus"
+                },
+                {
+                    "taxon": 1028509,
+                    "parent": 28453,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Sphingobacterium sp. HTc4-a",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1035397,
+                    "parent": 657,
+                    "count": 11,
+                    "count_norm": 2440,
+                    "tax_name": "Photobacterium sp. squidInt_04",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1055355,
+                    "parent": 365532,
+                    "count": 8,
+                    "count_norm": 1774,
+                    "tax_name": "Belnapia soli",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1165350,
+                    "parent": 13687,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Sphingomonas sp. HJ-JR3",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1166302,
+                    "parent": 379,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Rhizobium sp. S5-409",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1172558,
+                    "parent": 40323,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Stenotrophomonas sp. I_63-LFP1A9B1",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1219611,
+                    "parent": 2701,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Gardnerella sp. S3PF20",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1219736,
+                    "parent": 83618,
+                    "count": 7,
+                    "count_norm": 1552,
+                    "tax_name": "Pseudoxanthomonas sp. 2361",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1231834,
+                    "parent": 13687,
+                    "count": 472,
+                    "count_norm": 104702,
+                    "tax_name": "Sphingomonas sp. 2R-2",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1234514,
+                    "parent": 1716,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Corynebacterium sp. jw37",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1244424,
+                    "parent": 1301,
+                    "count": 126,
+                    "count_norm": 27950,
+                    "tax_name": "Streptococcus sp. 2011_Oral_MS_A3",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1264716,
+                    "parent": 34037,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Rahnella sp. FB303",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1301786,
+                    "parent": 379,
+                    "count": 18,
+                    "count_norm": 3992,
+                    "tax_name": "Rhizobium sp. R055",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1325117,
+                    "parent": 374,
+                    "count": 4,
+                    "count_norm": 887,
+                    "tax_name": "Bradyrhizobium sp. CCBAU 53380",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1398337,
+                    "parent": 53335,
+                    "count": 15,
+                    "count_norm": 3327,
+                    "tax_name": "Pantoea sp. Rai1",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1416836,
+                    "parent": 57493,
+                    "count": 33,
+                    "count_norm": 7320,
+                    "tax_name": "Kocuria sp. LW2-LEVI2-W",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1435907,
+                    "parent": 48736,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Ralstonia sp. A52",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1437183,
+                    "parent": 3398,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Mesangiospermae",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 1437201,
+                    "parent": 91827,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Pentapetalae",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 1459583,
+                    "parent": 1279,
+                    "count": 9,
+                    "count_norm": 1996,
+                    "tax_name": "Staphylococcus sp. 3348O2",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1463377,
+                    "parent": 165696,
+                    "count": 41,
+                    "count_norm": 9094,
+                    "tax_name": "Novosphingobium sp. iMX1",
+                    "tax_rank": "species"
+                },
+                {
+                    "taxon": 1553900,
+                    "parent": 1224,
+                    "count": 23,
+                    "count_norm": 5102,
+                    "tax_name": "Oligoflexia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 1783257,
+                    "parent": 2,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "PVC group",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 1783270,
+                    "parent": 2,
+                    "count": 146,
+                    "count_norm": 32386,
+                    "tax_name": "FCB group",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 1783272,
+                    "parent": 2,
+                    "count": 573,
+                    "count_norm": 127107,
+                    "tax_name": "Terrabacteria group",
+                    "tax_rank": "no_rank"
+                },
+                {
+                    "taxon": 1853228,
+                    "parent": 976,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Chitinophagia",
+                    "tax_rank": "class"
+                },
+                {
+                    "taxon": 1853229,
+                    "parent": 1853228,
+                    "count": 2,
+                    "count_norm": 443,
+                    "tax_name": "Chitinophagales",
+                    "tax_rank": "order"
+                },
+                {
+                    "taxon": 1903409,
+                    "parent": 91347,
+                    "count": 15,
+                    "count_norm": 3327,
+                    "tax_name": "Erwiniaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 1903411,
+                    "parent": 91347,
+                    "count": 3,
+                    "count_norm": 665,
+                    "tax_name": "Yersiniaceae",
+                    "tax_rank": "family"
+                },
+                {
+                    "taxon": 1912216,
+                    "parent": 31957,
+                    "count": 6,
+                    "count_norm": 1330,
+                    "tax_name": "Cutibacterium",
+                    "tax_rank": "genus"
+                }
+            ]
+        }
+    ]
+}

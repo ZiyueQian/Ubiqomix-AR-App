@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "24218A5D-B50C-4BFC-BEA6-4C941FE17641"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OmiX/CollectionHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CollectionHeaderView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - c00236e0eb1b1f79"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.tipImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - c56f4be661b8eb0d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.tipImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - 539c3179c17f9a7e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.tipImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - 274409fc67c103db"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.tipImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - 6999aeafa568ceca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.init(frame: __C.CGRect) -&gt; OmiX.CollectionHeaderView"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "A7E8CF4C-20A7-4774-89DB-57917DA94C33 - 4ee16af614beef56"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmiX.CollectionHeaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OmiX.CollectionHeaderView&gt;"
+                  moduleName = "OmiX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelaqian/Documents/GitHub/UbiqOmix-AR/OmiX/OmiX/CollectionHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

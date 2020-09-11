@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-OmiX/Pods-OmiX-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/FanMenu/FanMenu.framework
+${BUILT_PRODUCTS_DIR}/FittedSheets/FittedSheets.framework
+${BUILT_PRODUCTS_DIR}/Macaw/Macaw.framework
+${BUILT_PRODUCTS_DIR}/SWXMLHash/SWXMLHash.framework

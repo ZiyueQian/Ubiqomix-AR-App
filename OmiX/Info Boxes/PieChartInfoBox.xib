@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="PieChartInfoBox" customModule="OmiX" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="598" height="359"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name testing 1010101" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hew-GT-bQ0">
+                    <rect key="frame" x="0.0" y="10" width="598" height="36"/>
+                    <fontDescription key="fontDescription" type="system" weight="thin" pointSize="30"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yR1-tV-nSf" customClass="PieChartView" customModule="Charts">
+                    <rect key="frame" x="17" y="54" width="564" height="295"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="564" id="8oa-f3-qsv"/>
+                        <constraint firstAttribute="height" constant="295" id="FcQ-QA-I38"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="top" secondItem="hew-GT-bQ0" secondAttribute="top" constant="34" id="50M-6n-L7K"/>
+                <constraint firstItem="yR1-tV-nSf" firstAttribute="centerX" secondItem="hew-GT-bQ0" secondAttribute="centerX" id="GeV-OA-b7Z"/>
+                <constraint firstItem="yR1-tV-nSf" firstAttribute="top" secondItem="hew-GT-bQ0" secondAttribute="bottom" constant="8" id="UZT-bO-KxB"/>
+                <constraint firstItem="hew-GT-bQ0" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="VlZ-l5-hv1"/>
+                <constraint firstItem="hew-GT-bQ0" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="Zlg-5c-498"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="chartView" destination="yR1-tV-nSf" id="GEQ-nr-ovT"/>
+                <outlet property="nameLabel" destination="hew-GT-bQ0" id="lPB-hG-GR8"/>
+            </connections>
+            <point key="canvasLocation" x="-230.43478260869566" y="7.7008928571428568"/>
+        </view>
+    </objects>
+</document>

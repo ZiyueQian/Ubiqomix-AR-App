@@ -1,0 +1,35 @@
+PODS:
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - FanMenu (0.7.3):
+    - Macaw
+  - FittedSheets (1.4.2)
+  - Macaw (0.9.5):
+    - SWXMLHash
+  - SWXMLHash (4.9.0)
+
+DEPENDENCIES:
+  - Charts
+  - FanMenu
+  - FittedSheets
+  - Macaw (= 0.9.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - FanMenu
+    - FittedSheets
+    - Macaw
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  FanMenu: 44d06d35b0382daf6b6aaf78b57a7b9693fbb6e7
+  FittedSheets: b709443d31cf6a8a4a08c67715d344b07d2a0a55
+  Macaw: 10bf9e327cb75f24e3225d5229a80ed544df85f0
+  SWXMLHash: 87b0006848a548b7f9485b40bc71721b3ae39add
+
+PODFILE CHECKSUM: 300f5af334b4ea8481b9674416d2cccfc800b092
+
+COCOAPODS: 1.7.1

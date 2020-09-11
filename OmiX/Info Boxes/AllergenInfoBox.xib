@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="AllergenInfoBox" customModule="OmiX" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="282" height="169"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pasta" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kfT-n4-EBe">
+                    <rect key="frame" x="0.0" y="14" width="282" height="36"/>
+                    <fontDescription key="fontDescription" type="system" weight="thin" pointSize="30"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="gluten" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1HY-l2-m3w">
+                    <rect key="frame" x="0.0" y="137" width="282" height="24"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="E8n-9b-EWy">
+                    <rect key="frame" x="103.5" y="52" width="75" height="75"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="75" id="SVg-jo-PBd"/>
+                        <constraint firstAttribute="width" constant="75" id="aob-gL-qok"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="kfT-n4-EBe" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="1xL-Yo-sdG"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="1HY-l2-m3w" secondAttribute="trailing" id="67Q-sZ-Rth"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="kfT-n4-EBe" secondAttribute="trailing" id="8Ns-Rr-hHE"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="top" secondItem="kfT-n4-EBe" secondAttribute="top" constant="30" id="9HP-X5-kgf"/>
+                <constraint firstItem="1HY-l2-m3w" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="Bxs-1a-Mfg"/>
+                <constraint firstItem="kfT-n4-EBe" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="LSk-bz-qoO"/>
+                <constraint firstItem="1HY-l2-m3w" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="93" id="qqU-j8-pi7"/>
+                <constraint firstItem="E8n-9b-EWy" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="tXe-5V-Hyj"/>
+                <constraint firstItem="E8n-9b-EWy" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="tfX-JL-Gro"/>
+                <constraint firstItem="1HY-l2-m3w" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="xiB-ga-ObO"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="kfT-n4-EBe" secondAttribute="bottom" constant="85" id="yPm-jT-b04"/>
+                <constraint firstItem="1HY-l2-m3w" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" constant="26" id="yVy-r6-vjq"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="allergenIcon" destination="E8n-9b-EWy" id="6Y5-6u-j4o"/>
+                <outlet property="allergenLabel" destination="1HY-l2-m3w" id="8f2-DC-8zC"/>
+                <outlet property="nameLabel" destination="kfT-n4-EBe" id="bHb-RP-7nh"/>
+            </connections>
+            <point key="canvasLocation" x="47.826086956521742" y="35.825892857142854"/>
+        </view>
+    </objects>
+</document>
